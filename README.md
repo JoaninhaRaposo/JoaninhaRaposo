@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JoaninhaRaposo
-- 👀 I’m interested in so many activities of different areas!
-- 🌱 I’m currently learning AI & Robotics courses at univerty. 
-
-- 📫 How to reach me joaninha.raposo@tecnico.ulisboa.pt
+- 👀 I’m interested in so many activities of different areas(Artificial Intelligence, Robotics, Bioinformatics, Design, ...) 
+- 🌱 I’m currently doing my thesis for my Msc in Computer Science and Engineering, and having some courses on Design and Databases :D ) 
 
 <!---
 JoaninhaRaposo/JoaninhaRaposo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
